@@ -5,7 +5,7 @@
 Shopping-R-Us is starting a computer store. You have been engaged to build the checkout system. We will start with the following products in our catalogue  
 ​
 ​
-| SKU | Name | Price | | --------:| ----------------:| ----------:|  
+| SKU | Name | Price |
 | ipd | mbp | atv | vga ​  
 | Super iPad | $549.99 | | MacBook Pro | $1399.99 |  
 | Apple TV | $109.50 | | VGA adapter | $30.00 |  
@@ -17,9 +17,10 @@ As we're launching our new computer store, we would like to have a few opening d
 ​
 As our Sales manager is quite indecisive, we want the pricing rules to be as flexible as possible as they can change in the future with little notice.  
 ​
+
 Our checkout system can scan items in any order.  
 ​
-​
+
 
 ## Example scenarios
 ​
