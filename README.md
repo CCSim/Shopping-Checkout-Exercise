@@ -5,10 +5,10 @@
 Shopping-R-Us is starting a computer store. You have been engaged to build the checkout system. We will start with the following products in our catalogue  
 ​
 ​
-| SKU | Name | Price | | --------:| ----------------:| ----------:|
-| ipd | mbp | atv | vga ​
-| Super iPad | $549.99 | | MacBook Pro | $1399.99 |
-| Apple TV | $109.50 | | VGA adapter | $30.00 |
+| SKU | Name | Price | | --------:| ----------------:| ----------:|  
+| ipd | mbp | atv | vga ​  
+| Super iPad | $549.99 | | MacBook Pro | $1399.99 |  
+| Apple TV | $109.50 | | VGA adapter | $30.00 |  
 As we're launching our new computer store, we would like to have a few opening day specials.
 ​
 * We're going to have a 3 for 2 deal on Apple TVs. For example, if you buy 3 Apple TVs, you will pay the price of 2 only  
@@ -20,8 +20,8 @@ As our Sales manager is quite indecisive, we want the pricing rules to be as fle
 Our checkout system can scan items in any order.  
 ​
 ​
-Example scenarios
------------------
+
+## Example scenarios
 ​
 SKUs Scanned: atv, atv, atv, vga   
 Total expected: $249.00  
